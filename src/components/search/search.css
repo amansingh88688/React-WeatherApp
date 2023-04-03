@@ -1,0 +1,12 @@
+.paginate{
+    width: 600px;
+    display: block;
+    margin: auto;
+    box-shadow: 5px 5px 10px 0 rgb(0 0 0 / 30%);
+}
+@media (max-width: 468px){
+    .paginate{
+        width: 300px;
+        align-items: center;
+    }
+}

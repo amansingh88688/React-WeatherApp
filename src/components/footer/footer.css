@@ -1,0 +1,62 @@
+
+
+
+.foot{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.icons{
+    margin: auto 10px;
+    padding: -10px 0;
+
+
+}
+
+.linkedin{
+     color: rgb(7, 48, 151);
+     height: 20px;
+     width: 20px;
+     transition: 0.2s
+
+}
+.instagram{
+    color: rgb(255, 0, 144);
+    height: 20px;
+     width: 20px;
+     font-weight: 800;
+     transition: 0.2s
+
+}
+.github{
+    color: black;
+    height: 20px;
+     width: 20px;
+     transition: 0.2s
+}
+.github:hover{
+    height: 25px;
+    width: 25px;
+}
+.linkedin:hover{
+    height: 25px;
+    width: 25px;
+}
+.instagram:hover{
+    height: 25px;
+    width: 25px;
+}
+
+.heading{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 20px;
+    font-weight: 600;
+    color: rgb(36, 35, 35)
+}
+.copyright{
+    color: rgb(46, 44, 44);
+    font-size: 14px;
+    text-align: center;
+    font-weight: 600;
+}
